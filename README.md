@@ -17,7 +17,7 @@ including geospatial mapping of global launch sites. An infographic summarizing 
 
 <p align="center">
 Access the Excel Spreadsheet:  <br/>
-<img src="https://github.com/ayeshaabdullahi/Phone-Database/blob/main/ER.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/ayeshaabdullahi/orbital-space-launches-analysis/blob/main/excel%20ss.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Perform Feature extraction:  <br/>
