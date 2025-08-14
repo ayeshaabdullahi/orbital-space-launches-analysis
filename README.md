@@ -21,7 +21,7 @@ Access the Excel Spreadsheet:  <br/>
 <br />
 <br />
 Perform Feature extraction:  <br/>
-<img src="https://github.com/ayeshaabdullahi/Phone-Database/blob/main/Relational%20Model.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/ayeshaabdullahi/orbital-space-launches-analysis/blob/main/Feature%20Extraction.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create Visulizations in Tableau: <br/>
