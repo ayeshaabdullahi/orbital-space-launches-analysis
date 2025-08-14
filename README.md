@@ -20,23 +20,14 @@ Access the Excel Spreadsheet:  <br/>
 <img src="https://github.com/ayeshaabdullahi/orbital-space-launches-analysis/blob/main/excel%20ss.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Perform Feature extraction:  <br/>
+Perform Analysis:  <br/>
 <img src="https://github.com/ayeshaabdullahi/orbital-space-launches-analysis/blob/main/Feature%20Extraction.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create Visulizations in Tableau: <br/>
+Make Infographic in Canva: <br/>
 <img src="https://github.com/ayeshaabdullahi/orbital-space-launches-analysis/blob/main/Tableau%20Dashboard.pdf" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Perform Analysis:  <br/>
-<img src="https://github.com/ayeshaabdullahi/Phone-Database/blob/main/insert_values.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Communicate Your Findings: <br/>
-<img src="https://github.com/ayeshaabdullahi/Phone-Database/blob/main/analysis.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Share your findings in a Latex Report:  <br/>
-<img src="https://github.com/ayeshaabdullahi/Phone-Database/blob/main/LatexReport.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 </p>
