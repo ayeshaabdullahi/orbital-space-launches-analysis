@@ -25,7 +25,7 @@ Perform Feature extraction:  <br/>
 <br />
 <br />
 Create Visulizations in Tableau: <br/>
-<img src="https://github.com/ayeshaabdullahi/Phone-Database/blob/main/githubtut(use%20this).png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/ayeshaabdullahi/orbital-space-launches-analysis/blob/main/Tableau%20Dashboard.pdf" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Perform Analysis:  <br/>
