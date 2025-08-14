@@ -25,7 +25,7 @@ Perform Analysis:  <br/>
 <br />
 <br />
 Make Infographic in Canva: <br/>
-<img src="https://github.com/ayeshaabdullahi/orbital-space-launches-analysis/blob/main/Tableau%20Dashboard.pdf" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/ayeshaabdullahi/orbital-space-launches-analysis/blob/main/updated_infographic.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 
