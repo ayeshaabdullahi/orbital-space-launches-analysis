@@ -20,7 +20,7 @@ Access the Excel Spreadsheet:  <br/>
 <img src="https://github.com/ayeshaabdullahi/orbital-space-launches-analysis/blob/main/excel%20ss.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Perform Analysis:  <br/>
+Perform Feature Extraction + Analysis:  <br/>
 <img src="https://github.com/ayeshaabdullahi/orbital-space-launches-analysis/blob/main/Feature%20Extraction.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
