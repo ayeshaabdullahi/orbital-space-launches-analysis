@@ -16,23 +16,23 @@ including geospatial mapping of global launch sites. An infographic summarizing 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Make an E-R Diagram:  <br/>
+Access the Excel Spreadsheet:  <br/>
 <img src="https://github.com/ayeshaabdullahi/Phone-Database/blob/main/ER.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Make a Relational Model:  <br/>
+Perform Feature extraction:  <br/>
 <img src="https://github.com/ayeshaabdullahi/Phone-Database/blob/main/Relational%20Model.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Make the tables, their variables, and their variable types: <br/>
+Create Visulizations in Tableau: <br/>
 <img src="https://github.com/ayeshaabdullahi/Phone-Database/blob/main/githubtut(use%20this).png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Insert values for the variables:  <br/>
+Perform Analysis:  <br/>
 <img src="https://github.com/ayeshaabdullahi/Phone-Database/blob/main/insert_values.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create questions to analyze your data: <br/>
+Communicate Your Findings: <br/>
 <img src="https://github.com/ayeshaabdullahi/Phone-Database/blob/main/analysis.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
