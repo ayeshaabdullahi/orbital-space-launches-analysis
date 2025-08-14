@@ -1,8 +1,7 @@
 <h1> Orbital Sapce Launches Analysis</h1>
 
 <h2>Description</h2>
-Project involves analyzing historical orbital rocket launch data from an Excel dataset to identify trends in launch frequency, mission type, and participating countries. Data was visualized in Tableau through interactive dashboards,
-including geospatial mapping of global launch sites. An infographic summarizing key findings was created in Canva to communicate insights to technical and non-technical stakeholders.
+The Orbital Space Launches Analysis project involved analyzing historical orbital rocket launch data from 2023–2024 using Excel to identify trends in launch frequency, mission type, and participating countries. Key features were extracted and analyzed to uncover patterns that inform strategic understanding of global space activity. Interactive Tableau dashboards, including geospatial mapping of launch sites, were developed to allow stakeholders to explore the data visually. Additionally, an infographic was created in Canva to summarize findings for both technical and non-technical audiences, effectively communicating insights.
 <br />
 
 
